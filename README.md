@@ -6,11 +6,13 @@
 
 #### Description: 2D pixel demo platformer with Java
 
-  
+
 
 Hi! This is my final project for the CS50 course, where I explored what can be done with pure Java in the Android studio. The game is about a dog who found itself in a half-destroyed town full of Filthy Slimes of alien nature. He is brave enough to fight with enemies and go search for his lost friend Meowt!
 
-  
+![Screenshot_2022-04-02-14-29-47-659_com example dogvillev2](https://user-images.githubusercontent.com/91190871/161464176-ee6c5259-f1a5-4ca2-9ca4-06e4bc053928.jpg)
+![1648884647535](https://user-images.githubusercontent.com/91190871/161464218-8dd0bc5e-86c2-46a8-a6a8-ba437a131cae.jpg)
+
 
 #### How to launch
 
@@ -52,5 +54,7 @@ After the game is either lost or won, GUI controls are hidden and buttons for ex
 
 #### Resources used (free)
 *[Animal pixel art asset](https://craftpix.net/freebies/free-street-animal-pixel-art-asset-pack/)*
+  
 *[Post apocalyptic backgrounds](https://craftpix.net/freebies/free-post-apocalyptic-pixel-art-game-backgrounds/)*
+  
 *[Royalty Free Background Music](https://www.fesliyanstudios.com/)*
